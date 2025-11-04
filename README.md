@@ -1,59 +1,77 @@
 <!-- 🚀 Futuristic 3D Motion-Inspired GitHub Profile README -->
 
+<style>
+  .glass-card {
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 16px;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 0 20px rgba(0, 240, 255, 0.3);
+    padding: 20px;
+    margin: 10px;
+    transition: transform 0.3s ease;
+  }
+  .glass-card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 0 30px rgba(0, 240, 255, 0.6);
+  }
+  .neon-text {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 24px;
+    color: #00f0ff;
+    text-shadow: 0 0 5px #00f0ff, 0 0 10px #8a2be2;
+  }
+</style>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Welcome+to+Avinash's+Sci-Fi+Hub;Engineering+Logic+into+Reality;Building+AI+Tools+%26+Backends" alt="Typing SVG" />
 </div>
 
 ---
 
-### 👋 Introduction
+### 👋 <span class="neon-text">Introduction</span>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Logic%20Driven-00F0FF?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tech%20Explorer-8A2BE2?style=for-the-badge&logo=react&logoColor=white" />
+<div align="center" class="glass-card">
+  Hi, I'm <strong>Avinash</strong> — a systems architect and mobile app developer with a passion for logic-driven design, futuristic workflows, and collaborative platforms.
 </div>
 
-Hi, I'm **Avinash** — a systems architect and mobile app developer with a passion for transforming complexity into clarity. I thrive on logic, transparency, and futuristic design.
-
 ---
 
-### 🚀 Current Focus
+### 🚀 <span class="neon-text">Current Focus</span>
 
-- 🧠 Building **AI-powered decision-support tools**
-- 🛠️ Architecting **backend systems** for scalable platforms
-- 🧪 Experimenting with **logic-based workflows** and **multi-user collaboration**
-
----
-
-### 🧠 Skills
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,typescript,python,figma,git,graphql,linux" />
+<div align="center" class="glass-card">
+  🧠 Building AI-powered decision-support tools<br>
+  🛠️ Architecting backend systems for scalable platforms<br>
+  🧪 Experimenting with logic-based workflows and multi-user collaboration
 </div>
 
-- **Languages**: TypeScript, Python, JavaScript  
-- **Frameworks**: React Native, Node.js, Express  
-- **Tools**: GitHub Actions, Figma, GraphQL, Docker
+---
+
+### 🧠 <span class="neon-text">Skills</span>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,typescript,python,figma,git,graphql,docker" />
+</div>
 
 ---
 
-### 🌍 Featured Projects
+### 🌍 <span class="neon-text">Featured Projects</span>
 
 <div align="center">
   <a href="https://github.com/yourusername/project1">
-    <img src="https://img.shields.io/badge/AI%20Tool%20Kit-00F0FF?style=for-the-badge&logo=github&logoColor=white" />
+    <div class="glass-card">🧠 AI Tool Kit</div>
   </a>
   <a href="https://github.com/yourusername/project2">
-    <img src="https://img.shields.io/badge/Depot%20App-8A2BE2?style=for-the-badge&logo=react&logoColor=white" />
+    <div class="glass-card">🚉 Depot App</div>
   </a>
   <a href="https://github.com/yourusername/project3">
-    <img src="https://img.shields.io/badge/Logic%20Engine-FF00FF?style=for-the-badge&logo=code&logoColor=white" />
+    <div class="glass-card">🧮 Logic Engine</div>
   </a>
 </div>
 
 ---
 
-### ⚡ Stats
+### ⚡ <span class="neon-text">Stats</span>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
@@ -61,24 +79,17 @@ Hi, I'm **Avinash** — a systems architect and mobile app developer with a pass
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=matrix&margin-w=10&margin-h=10" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/yourusername/yourusername/raw/main/images/3d-contrib-graph.svg" />
-</div>
-
 ---
 
-### 🎨 Now Playing / Activity
+### 🎨 <span class="neon-text">Now Playing</span>
 
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
 </div>
 
-<!-- Optional WakaTime -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical" /> -->
-
 ---
 
-### 💫 Footer
+### 💫 <span class="neon-text">Footer</span>
 
 <div align="center">
   <svg width="100%" height="50">
@@ -92,27 +103,4 @@ Hi, I'm **Avinash** — a systems architect and mobile app developer with a pass
       </linearGradient>
     </defs>
   </svg>
-</div>
-
----
-
-<!-- 🧪 Bonus: Hover Animation (CSS in Markdown) -->
-
-<style>
-  .hover-card {
-    display: inline-block;
-    padding: 10px 20px;
-    border-radius: 12px;
-    background: linear-gradient(135deg, #00F0FF, #8A2BE2);
-    color: white;
-    transition: transform 0.3s ease;
-  }
-  .hover-card:hover {
-    transform: scale(1.05) rotate(1deg);
-    box-shadow: 0 0 20px #00F0FF;
-  }
-</style>
-
-<div align="center">
-  <div class="hover-card">🚀 Explore My Universe</div>
 </div>
