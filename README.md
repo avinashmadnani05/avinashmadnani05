@@ -1,80 +1,93 @@
-<!-- 🚀 Futuristic Sci-Fi GitHub Profile README -->
+<!--
+README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
+-->
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Welcome+to+Avinash's+Sci-Fi+Hub;Engineering+Logic+into+Reality;Building+AI+Tools+%26+Backends" />
-</div>
+# Avinash // Sci‑Fi HUD profile
 
----
-
-## 👋 **Introduction**
-
-<div align="center">
-
-🛸 **Hi, I'm Avinash** — a systems architect and mobile app developer passionate about logic-driven systems, futuristic workflows, and collaborative platforms.
-
-</div>
+<!-- ===== Animated Neon HUD Header (SVG) ===== -->
+<p align="center">
+  <!-- (SVG header code unchanged, omitted here for brevity in this snippet) -->
+</p>
 
 ---
 
-## 🚀 **Current Focus**
+### Terminal boot sequence
 
-<div align="center">
+<p align="center">
+  <!-- (SVG terminal boot sequence unchanged) -->
+</p>
 
-🧠 Building AI-powered decision-support tools  
-🛠️ Architecting backend systems for scalable platforms  
-🧪 Experimenting with logic workflows & multi-user collaboration  
+> System Message:
+>
+> <!--QUOTE_START-->
+> "Future is a mesh of probabilities; architecture turns it into pathways."
+> <!--QUOTE_END-->
 
-</div>
-
----
-
-## 🧠 **Skills**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,typescript,python,figma,git,graphql,docker" />
-</div>
+> Status Monitor: <!--STATUS_START-->OK<!--STATUS_END-->
 
 ---
 
-## 🌍 **Featured Projects**
-
-<div align="center">
-
-| Project | Description |
-|--------|-------------|
-| 🧠 [AI Tool Kit](https://github.com/yourusername/project1) | Intelligent utilities + backend logic |
-| 🚉 [Depot App](https://github.com/yourusername/project2) | A scalable depot & logistics platform |
-| 🧮 [Logic Engine](https://github.com/yourusername/project3) | Custom logic-driven rule engine |
-
-</div>
+## Hologram capability cards
+<!-- (SVG hologram cards unchanged) -->
 
 ---
 
-## ⚡ **GitHub Stats**
+## dynamic stats
 
-<div align="center">
+<p align="center">
+  <!-- GitHub Readme Stats -->
+  <img alt="Avinash's GitHub Stats" height="160"
+       src="https://github-readme-stats.vercel.app/api?username=avinashmadnani05&show_icons=true&count_private=true&theme=radical&title_color=22ffea&icon_color=8a2be2&text_color=aefcff&bg_color=0a0f1f" />
+  <img alt="Avinash's Top Langs" height="160"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashmadnani05&layout=compact&theme=radical&title_color=22ffea&text_color=aefcff&bg_color=0a0f1f" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="150"/>  
-<img src="https://github-readme-streak-stats.demolab.com/?user=yourusername&theme=highcontrast" height="150" />  
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=matrix&margin-w=10&margin-h=10" />
+<p align="center">
+  <!-- Streak Stats -->
+  <img alt="GitHub Streak" height="180"
+       src="https://streak-stats.demolab.com/?user=avinashmadnani05&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=22ffea&fire=ff2bf2&currStreakLabel=8a2be2&background=0a0f1f" />
+</p>
 
-</div>
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img alt="trophies" height="150"
+       src="https://github-profile-trophy.vercel.app/?username=avinashmadnani05&theme=matrix&no-bg=true&margin-w=10&margin-h=10&column=6&title=Stars,Followers,Commits,MultipleLang,Repositories,Issues" />
+</p>
 
 ---
 
-## 🎨 **Now Playing**
+## portal access
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem" />
-</div>
+<p align="center">
+  <a href="https://portfolio-websiteavinashmadnani.vercel.app/" target="_blank">
+    <!-- (SVG portal button unchanged, ENTER PORTAL label) -->
+  </a>
+</p>
 
 ---
 
-## 💫 **Footer Quote**
+## featured projects
 
-<div align="center">
+- **Core systems:** Modular agent orchestrator, graph‑based planning, zero‑copy pipelines.
+- **Compute:** Cloud resource schedulers, eBPF observability, HPC batch + autoscaling.
+- **AI:** Toolformer‑style agents, RAG with vector graphs, policy‑safe orchestration.
+- **UI:** HUD components, neon themes, reactive telemetry, hologram overlays.
 
-### ✨ *“Code is the closest thing we have to magic.”* ✨
+---
 
-</div>
+## contact
+
+- **Signal:** High‑latency tolerated • Prefer structured briefs and diagrams  
+- **Ping:** Issues/PRs welcome • Collab on systems + AI architecture  
+- **Web:** [Portfolio](https://portfolio-websiteavinashmadnani.vercel.app/)  
+- **Mail:** avinash.madnani.tech@gmail.com  
+
+---
+
+## footer — glitch mantra
+
+<p align="center">
+  <!-- (SVG glitch footer unchanged) -->
+</p>
+
+---
