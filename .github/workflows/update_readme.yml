@@ -1,0 +1,68 @@
+# .github/workflows/update_readme.yml
+name: Update README — Neon HUD cycle
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate random quote and status
+        id: gen
+        run: |
+          QUOTES=(
+            "Systems are living maps; code is how we traverse them."
+            "Neural light through silicon corridors guides our next decisions."
+            "Design for failure; engineer for emergence."
+            "Latency is a story your system tells under pressure."
+            "Entropy whispers; architecture answers."
+            "Compute is cheap—clarity is expensive."
+            "Agents aren’t magic; alignment is."
+            "Scale reveals truth and refactors illusion."
+            "Data is terrain; models are vehicles."
+            "Resilience is elegance under stress."
+          )
+          STATUSES=("OK" "HIGH LOAD" "BOOTING…" "MAINTENANCE" "DEGRADED" "RECOVERING")
+          RQ=${QUOTES[$RANDOM % ${#QUOTES[@]}]}
+          RS=${STATUSES[$RANDOM % ${#STATUSES[@]}]}
+
+          echo "quote<<EOF" >> $GITHUB_OUTPUT
+          echo "$RQ" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+          echo "status=$RS" >> $GITHUB_OUTPUT
+
+      - name: Update README placeholders
+        run: |
+          READMEREADME="README.md"
+
+          # Replace quote between markers
+          perl -0777 -pe "s/<!--QUOTE_START-->.*?<!--QUOTE_END-->/<!--QUOTE_START-->\\n> \"$ENV_QUOTE\"\\n<!--QUOTE_END-->/s" \
+            -i "$READMEREADME"
+
+          # Replace status between markers
+          perl -0777 -pe "s/<!--STATUS_START-->.*?<!--STATUS_END-->/<!--STATUS_START-->$ENV_STATUS<!--STATUS_END-->/s" \
+            -i "$READMEREADME"
+        env:
+          ENV_QUOTE: ${{ steps.gen.outputs.quote }}
+          ENV_STATUS: ${{ steps.gen.outputs.status }}
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Neon HUD update: quote + status"
+            git push
+          else
+            echo "No changes to commit."
+          fi
