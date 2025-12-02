@@ -44,11 +44,9 @@ jobs:
         run: |
           READMEREADME="README.md"
 
-          # Replace quote between markers
           perl -0777 -pe "s/<!--QUOTE_START-->.*?<!--QUOTE_END-->/<!--QUOTE_START-->\\n> \"$ENV_QUOTE\"\\n<!--QUOTE_END-->/s" \
             -i "$READMEREADME"
 
-          # Replace status between markers
           perl -0777 -pe "s/<!--STATUS_START-->.*?<!--STATUS_END-->/<!--STATUS_START-->$ENV_STATUS<!--STATUS_END-->/s" \
             -i "$READMEREADME"
         env:
