@@ -20,7 +20,7 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > System Message:
 >
 > <!--QUOTE_START-->
-> "Agents aren’t magic; alignment is."
+> "Data is terrain; models are vehicles."
 <!--QUOTE_END-->
 
 > Status Monitor: <!--STATUS_START-->MAINTENANCE<!--STATUS_END-->
