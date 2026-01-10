@@ -20,7 +20,7 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > System Message:
 >
 > <!--QUOTE_START-->
-> "Data is terrain; models are vehicles."
+> "Neural light through silicon corridors guides our next decisions."
 <!--QUOTE_END-->
 
 > Status Monitor: <!--STATUS_START-->HIGH LOAD<!--STATUS_END-->
