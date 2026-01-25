@@ -20,7 +20,7 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > System Message:
 >
 > <!--QUOTE_START-->
-> "Scale reveals truth and refactors illusion."
+> "Compute is cheap—clarity is expensive."
 <!--QUOTE_END-->
 
 > Status Monitor: <!--STATUS_START-->BOOTING…<!--STATUS_END-->
