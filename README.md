@@ -20,10 +20,10 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > System Message:
 >
 > <!--QUOTE_START-->
-> "Compute is cheap—clarity is expensive."
+> "Agents aren’t magic; alignment is."
 <!--QUOTE_END-->
 
-> Status Monitor: <!--STATUS_START-->RECOVERING<!--STATUS_END-->
+> Status Monitor: <!--STATUS_START-->MAINTENANCE<!--STATUS_END-->
 
 ---
 
