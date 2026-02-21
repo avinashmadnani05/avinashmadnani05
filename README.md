@@ -20,7 +20,7 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > System Message:
 >
 > <!--QUOTE_START-->
-> "Data is terrain; models are vehicles."
+> "Resilience is elegance under stress."
 <!--QUOTE_END-->
 
 > Status Monitor: <!--STATUS_START-->RECOVERING<!--STATUS_END-->
