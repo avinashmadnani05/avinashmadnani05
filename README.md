@@ -23,7 +23,7 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > "Systems are living maps; code is how we traverse them."
 <!--QUOTE_END-->
 
-> Status Monitor: <!--STATUS_START-->DEGRADED<!--STATUS_END-->
+> Status Monitor: <!--STATUS_START-->BOOTING…<!--STATUS_END-->
 
 ---
 
