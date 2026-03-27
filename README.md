@@ -20,7 +20,7 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > System Message:
 >
 > <!--QUOTE_START-->
-> "Data is terrain; models are vehicles."
+> "Compute is cheap—clarity is expensive."
 <!--QUOTE_END-->
 
 > Status Monitor: <!--STATUS_START-->HIGH LOAD<!--STATUS_END-->
