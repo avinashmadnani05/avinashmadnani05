@@ -20,10 +20,10 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > System Message:
 >
 > <!--QUOTE_START-->
-> "Resilience is elegance under stress."
+> "Compute is cheap—clarity is expensive."
 <!--QUOTE_END-->
 
-> Status Monitor: <!--STATUS_START-->BOOTING…<!--STATUS_END-->
+> Status Monitor: <!--STATUS_START-->DEGRADED<!--STATUS_END-->
 
 ---
 
