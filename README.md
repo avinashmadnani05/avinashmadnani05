@@ -20,10 +20,10 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > System Message:
 >
 > <!--QUOTE_START-->
-> "Scale reveals truth and refactors illusion."
+> "Systems are living maps; code is how we traverse them."
 <!--QUOTE_END-->
 
-> Status Monitor: <!--STATUS_START-->MAINTENANCE<!--STATUS_END-->
+> Status Monitor: <!--STATUS_START-->RECOVERING<!--STATUS_END-->
 
 ---
 
