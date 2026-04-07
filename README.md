@@ -20,10 +20,10 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > System Message:
 >
 > <!--QUOTE_START-->
-> "Scale reveals truth and refactors illusion."
+> "Data is terrain; models are vehicles."
 <!--QUOTE_END-->
 
-> Status Monitor: <!--STATUS_START-->OK<!--STATUS_END-->
+> Status Monitor: <!--STATUS_START-->RECOVERING<!--STATUS_END-->
 
 ---
 
