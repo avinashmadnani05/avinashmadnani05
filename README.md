@@ -20,7 +20,7 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > System Message:
 >
 > <!--QUOTE_START-->
-> "Design for failure; engineer for emergence."
+> "Compute is cheap—clarity is expensive."
 <!--QUOTE_END-->
 
 > Status Monitor: <!--STATUS_START-->OK<!--STATUS_END-->
