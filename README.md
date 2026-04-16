@@ -20,10 +20,10 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > System Message:
 >
 > <!--QUOTE_START-->
-> "Entropy whispers; architecture answers."
+> "Neural light through silicon corridors guides our next decisions."
 <!--QUOTE_END-->
 
-> Status Monitor: <!--STATUS_START-->DEGRADED<!--STATUS_END-->
+> Status Monitor: <!--STATUS_START-->MAINTENANCE<!--STATUS_END-->
 
 ---
 
