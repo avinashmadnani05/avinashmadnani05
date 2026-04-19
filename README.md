@@ -20,10 +20,10 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > System Message:
 >
 > <!--QUOTE_START-->
-> "Neural light through silicon corridors guides our next decisions."
+> "Systems are living maps; code is how we traverse them."
 <!--QUOTE_END-->
 
-> Status Monitor: <!--STATUS_START-->HIGH LOAD<!--STATUS_END-->
+> Status Monitor: <!--STATUS_START-->RECOVERING<!--STATUS_END-->
 
 ---
 
