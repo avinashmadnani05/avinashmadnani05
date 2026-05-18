@@ -20,10 +20,10 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > System Message:
 >
 > <!--QUOTE_START-->
-> "Design for failure; engineer for emergence."
+> "Entropy whispers; architecture answers."
 <!--QUOTE_END-->
 
-> Status Monitor: <!--STATUS_START-->RECOVERING<!--STATUS_END-->
+> Status Monitor: <!--STATUS_START-->BOOTING…<!--STATUS_END-->
 
 ---
 
