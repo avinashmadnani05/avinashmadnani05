@@ -20,7 +20,7 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > System Message:
 >
 > <!--QUOTE_START-->
-> "Resilience is elegance under stress."
+> "Entropy whispers; architecture answers."
 <!--QUOTE_END-->
 
 > Status Monitor: <!--STATUS_START-->BOOTING…<!--STATUS_END-->
