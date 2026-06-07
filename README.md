@@ -20,10 +20,10 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > System Message:
 >
 > <!--QUOTE_START-->
-> "Latency is a story your system tells under pressure."
+> "Systems are living maps; code is how we traverse them."
 <!--QUOTE_END-->
 
-> Status Monitor: <!--STATUS_START-->BOOTING…<!--STATUS_END-->
+> Status Monitor: <!--STATUS_START-->OK<!--STATUS_END-->
 
 ---
 
