@@ -23,7 +23,7 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > "Data is terrain; models are vehicles."
 <!--QUOTE_END-->
 
-> Status Monitor: <!--STATUS_START-->DEGRADED<!--STATUS_END-->
+> Status Monitor: <!--STATUS_START-->RECOVERING<!--STATUS_END-->
 
 ---
 
