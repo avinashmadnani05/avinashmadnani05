@@ -23,7 +23,7 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > "Latency is a story your system tells under pressure."
 <!--QUOTE_END-->
 
-> Status Monitor: <!--STATUS_START-->DEGRADED<!--STATUS_END-->
+> Status Monitor: <!--STATUS_START-->OK<!--STATUS_END-->
 
 ---
 
