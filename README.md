@@ -23,7 +23,7 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > "Agents aren’t magic; alignment is."
 <!--QUOTE_END-->
 
-> Status Monitor: <!--STATUS_START-->OK<!--STATUS_END-->
+> Status Monitor: <!--STATUS_START-->BOOTING…<!--STATUS_END-->
 
 ---
 
