@@ -23,7 +23,7 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > "Compute is cheap—clarity is expensive."
 <!--QUOTE_END-->
 
-> Status Monitor: <!--STATUS_START-->MAINTENANCE<!--STATUS_END-->
+> Status Monitor: <!--STATUS_START-->RECOVERING<!--STATUS_END-->
 
 ---
 
