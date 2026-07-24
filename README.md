@@ -20,7 +20,7 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > System Message:
 >
 > <!--QUOTE_START-->
-> "Entropy whispers; architecture answers."
+> "Latency is a story your system tells under pressure."
 <!--QUOTE_END-->
 
 > Status Monitor: <!--STATUS_START-->MAINTENANCE<!--STATUS_END-->
