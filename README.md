@@ -20,10 +20,10 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > System Message:
 >
 > <!--QUOTE_START-->
-> "Neural light through silicon corridors guides our next decisions."
+> "Compute is cheap—clarity is expensive."
 <!--QUOTE_END-->
 
-> Status Monitor: <!--STATUS_START-->MAINTENANCE<!--STATUS_END-->
+> Status Monitor: <!--STATUS_START-->RECOVERING<!--STATUS_END-->
 
 ---
 
