@@ -23,7 +23,7 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > "Entropy whispers; architecture answers."
 <!--QUOTE_END-->
 
-> Status Monitor: <!--STATUS_START-->MAINTENANCE<!--STATUS_END-->
+> Status Monitor: <!--STATUS_START-->RECOVERING<!--STATUS_END-->
 
 ---
 
