@@ -23,7 +23,7 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > "Design for failure; engineer for emergence."
 <!--QUOTE_END-->
 
-> Status Monitor: <!--STATUS_START-->RECOVERING<!--STATUS_END-->
+> Status Monitor: <!--STATUS_START-->DEGRADED<!--STATUS_END-->
 
 ---
 
