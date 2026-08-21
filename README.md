@@ -23,7 +23,7 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > "Scale reveals truth and refactors illusion."
 <!--QUOTE_END-->
 
-> Status Monitor: <!--STATUS_START-->HIGH LOAD<!--STATUS_END-->
+> Status Monitor: <!--STATUS_START-->RECOVERING<!--STATUS_END-->
 
 ---
 
