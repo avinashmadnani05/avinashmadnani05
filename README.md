@@ -20,7 +20,7 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > System Message:
 >
 > <!--QUOTE_START-->
-> "Entropy whispers; architecture answers."
+> "Data is terrain; models are vehicles."
 <!--QUOTE_END-->
 
 > Status Monitor: <!--STATUS_START-->OK<!--STATUS_END-->
