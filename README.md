@@ -20,10 +20,10 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > System Message:
 >
 > <!--QUOTE_START-->
-> "Neural light through silicon corridors guides our next decisions."
+> "Latency is a story your system tells under pressure."
 <!--QUOTE_END-->
 
-> Status Monitor: <!--STATUS_START-->DEGRADED<!--STATUS_END-->
+> Status Monitor: <!--STATUS_START-->MAINTENANCE<!--STATUS_END-->
 
 ---
 
