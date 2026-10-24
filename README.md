@@ -20,7 +20,7 @@ README.md — Avinash // Sci‑Fi HUD + Cyberpunk Neon
 > System Message:
 >
 > <!--QUOTE_START-->
-> "Latency is a story your system tells under pressure."
+> "Compute is cheap—clarity is expensive."
 <!--QUOTE_END-->
 
 > Status Monitor: <!--STATUS_START-->DEGRADED<!--STATUS_END-->
